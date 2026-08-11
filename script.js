@@ -1,3 +1,3 @@
-document addeventlistener('DOMContentLoaded',function () {
-    console.log('Protfolio ของ Thitima พร้อมแล้ว!');
+ document.addEventListener('DOMContentLoaded',function () {
+    console.log('Portfolio ของ NATTHAWAN พร้อมแล้ว!');
 });
